@@ -2,8 +2,6 @@
 ### Hi, I'm Daffa Muhammad Irfan 👋
 I'm a Computer Engineering student at Telkom University (Class of 2021). I am highly enthusiastic and have a strong interest in **Web Development**, **Software Engineering**, and **Data Analysis**.
 
-- 🌱 I'm currently exploring full-stack development with **PHP/Laravel** and data-driven applications with **Python**.
-- 📫 How to reach me: (Add your email or LinkedIn link here)
 
 ---
 
@@ -14,11 +12,16 @@ Here are some of the technologies I've worked with in my projects:
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-    <img src="https://img.shields.io/badge/Odoo-7776B6?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo"/>
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
     <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
+
+### 🤝 Connect with Me
+<p>
+    <a href="https://www.linkedin.com/in/daffa-m-irfan-7848592b2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://instagram.com/daffami"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 ---
